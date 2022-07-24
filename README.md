@@ -20,6 +20,8 @@
 // 2. pada data variable nama gambar cukup di tulis namanya saja
 // 3. pada tahap ambil swa foto klik allow permission use camera secara manual untuk melanjutkan ke proses berikutnya
 
+// Study case : pada proses verifikasi karena keterbatasan waktu saya simulasikan satu jenis tipe akun 'Individual - WNI (Mewakili Diri Sendiri)'
+
 3. Login
 
 // -------- Guideline ----------
