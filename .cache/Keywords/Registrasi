@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "DBEB9DB9B202AD07FBFCD4EBC77BD026",
+  "keywordClasses": [
+    {
+      "name": "Registrasi",
+      "keywordMethods": [
+        {
+          "name": "RB_JenisAkun",
+          "parameters": [
+            {
+              "name": "jenisAkun",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
