@@ -20,6 +20,7 @@ import org.openqa.selenium.Keys as Keys
 // -------- Guideline ----------
 
 // 1. change value in local variable to test in Test Case and change Test Data Driven Excel to Test in Test Suites
+// 2. use the registered user
 
 // ------------ Variable -------------
 

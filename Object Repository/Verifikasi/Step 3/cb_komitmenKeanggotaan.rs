@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;acceptMembershipAgreement&quot;]</value>
+         <value>//*[@id=&quot;dashboardForm-p-2&quot;]/div/div/div/div/div/div[4]/div/div[2]/div/div/label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

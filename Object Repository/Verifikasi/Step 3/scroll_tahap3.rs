@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>alert_okKomitmenKeanggotaan</name>
+   <name>scroll_tahap3</name>
    <tag></tag>
-   <elementGuidId>a870ed0a-c851-4c59-875a-dca0185bd439</elementGuidId>
+   <elementGuidId>dab99ab8-a28f-46c6-985d-44ac134d3a09</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[13]/div/div[4]/div/button</value>
+         <value>//*[@id=&quot;konten-keanggotaan&quot;]/canvas[19]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
